@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+bin/
+
+# Local caches and temp files
+.cache/
+go-cache/
+backend/tmp/
+backend/cmd/
+backend/internal/
+backend/delete-test/
+frontend/.vite/
+
+# Environment files
+.env
+.env.local
